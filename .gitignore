@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
 *.zip
+jdk-17.0.10+7-jre/
+venv/
